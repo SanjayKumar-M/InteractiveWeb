@@ -34,7 +34,7 @@
     z-index: -1;
 }
 
-/* @media (min-aspect-ration: 16/9){
+@media (min-aspect-ration: 16/9){
     .bgvideo{
         width: 100%;
         height: auto;
@@ -45,7 +45,7 @@
         width: 100%;
         height: 100;
     }
-} */
+}
 
 body {
     height: 100vh;
